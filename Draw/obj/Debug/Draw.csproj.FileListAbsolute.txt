@@ -1,0 +1,11 @@
+C:\Users\ibrahim\source\repos\Draw\bin\Debug\Draw.exe.config
+C:\Users\ibrahim\source\repos\Draw\bin\Debug\Draw.exe
+C:\Users\ibrahim\source\repos\Draw\bin\Debug\Draw.pdb
+C:\Users\ibrahim\source\repos\Draw\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\ibrahim\source\repos\Draw\obj\Debug\Draw.frmDraw.resources
+C:\Users\ibrahim\source\repos\Draw\obj\Debug\Draw.FrmDrawList.resources
+C:\Users\ibrahim\source\repos\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\ibrahim\source\repos\Draw\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\ibrahim\source\repos\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\source\repos\Draw\obj\Debug\Draw.exe
+C:\Users\ibrahim\source\repos\Draw\obj\Debug\Draw.pdb
